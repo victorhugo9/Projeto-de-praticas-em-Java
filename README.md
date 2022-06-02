@@ -17,8 +17,8 @@ Nota-se que cada um deles é gerado um código de id automáticamente -
 
 ![Telainicial](img/img3.png)
 
-Agora seleciono a opção " 2 " de alteração, que nela busco o item pelo codigo e logo após aparece uma compirmação do mesmo.
-E então digito seu novo nome e o seu novo preço -
+Agora seleciono a opção " 2 " de alteração, nela busco o item pelo codigo e logo após aparece uma comfirmação do mesmo.
+E então digito seu NOVO NOME e o seu NOVO PREÇO -
 
 ![Telainicial](img/img44.png)
 
@@ -26,8 +26,8 @@ Mostrando que o produto foi alterado e já consta na lista -
 
 ![Telainicial](img/img5.png)
 
-Na opção " 3 " que se trata da REMOÇÂO, eu busco o produto e o mesmo é me mostrado, e então eu tenho a opção se quero exclui-lo ou não " S / N ".
-escolho que "S" -
+Na opção " 3 " que se trata da REMOÇÂO, busco o produto e o mesmo é me mostrado, e então eu tenho a opção se quero exclui-lo ou não " S / N ".
+Escolho sim "S" -                                                                                   
 
 ![Telainicial](img/img6.png)
 
